@@ -1,0 +1,7 @@
+حط هون ملف باسم icon.ico (فورمات .ico مش .png) عشان يشتغل سطر
+<ApplicationIcon>Assets\icon.ico</ApplicationIcon> اللي بالـ csproj.
+
+لو ما حطيت الملف، البناء (dotnet build) بيفشل برسالة "the specified icon file could not be found".
+
+تقدر تسوي .ico بسهولة من أي .png عبر مواقع مجانية متل:
+https://icoconvert.com  أو  https://convertio.co/png-ico/
