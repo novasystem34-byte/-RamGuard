@@ -1,4 +1,5 @@
 # RAM Guard
+[![Donate](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal)](https://paypal.me/Alaaabushamaa)
 
 تطبيق WPF (.NET 8) لمراقبة وضبط استهلاك الذاكرة للعمليات الشغالة بويندوز.
 
